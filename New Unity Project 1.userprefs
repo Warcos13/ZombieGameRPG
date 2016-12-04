@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="New Unity Project 1.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\TileChunkPool.cs">
+    <Files>
+      <File FileName="Assets\CreativeSpore\RpgMapEditor\Scripts\AutoTileMap\TileChunkPool.cs" Line="138" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
